@@ -36,7 +36,7 @@ function script_description()
     You found a bug or you have a feature request? Great! <a href=\"" .. GITHUB_PROJECT_BUG_TRACKER_URL .. "\">Open an issue on GitHub.</a><p>\z
     
     <b>🚀 Version:</b> " .. VERSION_STRING .. "<br>\z
-    <b>🧑‍💻 Author:</b> Tobias Lorenz & SplitCoreGaming <br>\z
+    <b>🧑‍💻 Author:</b> Tobias Lorenz <br>\z
 	<b>🧑‍💻 Extended by:</b> SplitCoreGaming <br>\z
     <b>🔬 Source:</b> <a href=\"" .. GITHUB_PROJECT_URL .. "\">GitHub.com</a><br>\z
     <b>🧾 Licence:</b> <a href=\"" .. GITHUB_PROJECT_LICENCE_URL .. "\">MIT</a>"
