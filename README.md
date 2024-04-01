@@ -14,5 +14,5 @@ Some games/apps like Minecraft are a little tricky. The window title contains th
 
 - Currently only Windows is supported. I would like to get the script running on Linux and MacOS as well.
 
-- Maybe add an option to exclude some characters or only allow a certain character set<p>
+DONE!- Maybe add an option to exclude some characters or only allow a certain character set<p>
 Some games like Battlefield 2042 have a window title like `Battlefield™ 2042`. Even if it is technically possible to use characters such as `™` in the file name, it is often not recommended, as it can happen that some software, especialy older ones, may only expect ASCII characters. The same applies to whitespaces.
